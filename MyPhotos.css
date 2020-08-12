@@ -1,0 +1,51 @@
+h1{
+	font-family:"Times New Roman";
+	font-weight:900;
+	color:#000000;
+	font-size:4rem;
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+
+body{
+  background-image: url("https://jooinn.com/images/wood-background-with-ivy.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+img{
+	display:inline-block;
+	width:95%;
+	margin:2%;
+	padding:1%;
+}
+
+.nav{
+	position:fixed;
+	
+}
+
+li a{
+	color:#000000;
+	font-size:3rem;
+	font-weight:900;
+	font-family:"Calibri";
+	display:block;
+}
+
+p{
+	font-family:"Imprint MT Shadow";
+	font-size:3rem;
+	text-align:left;
+	font-weight:800;
+	background-color:#c78840;
+	color:#000000
+}
+
+#home p{
+	background:none;
+}
